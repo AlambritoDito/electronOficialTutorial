@@ -1,0 +1,22 @@
+{
+  "name": "oficialtutorial",
+  "version": "1.0.0",
+  "description": "This is Practicing with Electron oficial tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlambritoDito/electronOficialTutorial.git"
+  },
+  "author": "BritoDitoDeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlambritoDito/electronOficialTutorial/issues"
+  },
+  "homepage": "https://github.com/AlambritoDito/electronOficialTutorial#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
